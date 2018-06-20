@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="my_cool"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.mycool.android.db.Province"/>
+        <mapping class="com.mycool.android.db.City"/>
+        <mapping class="com.mycool.android.db.County"/>
+    </list>
+
+</litepal>
